@@ -19,7 +19,7 @@ A dynamic and interactive dashboard to visualize & analyze CO2 emissions worldwi
 
 ### To serve the dashboard locally, use the command 🧑🏻‍💻
 ```bash
-panel serve Interactive_dashboard.ipynb
+panel serve co2_dashboard.ipynb
 ```
 
 ![view](https://github.com/user-attachments/assets/8d442cef-f35d-4314-bf50-363ad7e14d8c)
