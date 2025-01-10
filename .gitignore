@@ -1,10 +1,8 @@
 Scripts/
 
-path/
+path\to\myenv\
 
 Lib/
-
-Include/
 
 .ipynb_checkpoints/
 
