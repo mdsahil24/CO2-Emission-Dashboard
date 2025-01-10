@@ -22,4 +22,4 @@ A dynamic and interactive dashboard to visualize & analyze CO2 emissions worldwi
 panel serve co2_dashboard.ipynb
 ```
 
-![view](https://github.com/user-attachments/assets/8d442cef-f35d-4314-bf50-363ad7e14d8c)
+![view](https://github.com/user-attachments/assets/b3228a7f-c270-4424-bd6a-fba07f9f4400)
