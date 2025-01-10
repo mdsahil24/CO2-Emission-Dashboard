@@ -1,0 +1,13 @@
+Scripts/
+
+path/
+
+Lib/
+
+Include/
+
+.ipynb_checkpoints/
+
+pyvenv.cfg
+
+owid-co2-data.csv
